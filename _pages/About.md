@@ -9,11 +9,11 @@ header:
     - label: "Downloads"
       url: "https://netmarshall.github.io/John.H.Marshall/downloads/"
     
-excerpt: "Actor. Student.<br>All around<br>decent Human."
+excerpt: "Actor. Student.<br>All around<br>decent human."
 
 ---
 {% include toc title="On this Page" %}
-Accomplished student, actor, and leader. Effective organizer who works comfortably under pressure and readily assumes additional responsibilities. Recipe for success: support your team mates, and do the homework. 
+Accomplished actor, student, and leader. Effective organizer who works comfortably under pressure and readily assumes additional responsibilities. Recipe for success: support your team mates, and do the homework. 
 
 ## Performances
 
