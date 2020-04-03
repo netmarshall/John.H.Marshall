@@ -19,7 +19,7 @@ gallery:
 <i class="far fa-file-pdf"></i> <a href="https://netmarshall.github.io/John.H.Marshall/assets/docs/John-H-Marshall-Resume.pdf">Resume Download</a>
 
 ## References
-Reference Letters are availible upon request!
+Reference Letters are availible upon request.
 
 ## Headshot
 {% include gallery caption="John Marshall - Headshot - Click to expand, then right click and Save As!" %}
