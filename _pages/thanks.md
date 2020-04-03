@@ -9,15 +9,15 @@ excerpt: "So many to thank!"
 feature_row:
   - image_path: /assets/images/Miller.jpg
     alt: "Ellen Miller"
-    excerpt: "**Ellen Miller**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."  
+    excerpt: "**Ellen Miller**: I truly came alive at Vines Theatre. You gave me my best friends and an extended family. You are an inspirational Teacher. Theatre at Vines was more than just a class. It was a home."  
 feature_row2:
   - image_path: /assets/images/ballard.jpg
     alt: "Racey Ballard"
-    excerpt: "**Racey Ballard**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." 
+    excerpt: "**Racey Ballard**: From my very first show in Middle School, to my last show in High School, you have taught me so much more than just Theatre. You have taught me how to lead, how to follow and that is possible to have a career doing what you love. Thank you so much for that, I will carry it always." 
 feature_row3:
   - image_path: /assets/images/lozano.jpg
     alt: "Danny Lozano"
-    excerpt: "**Danny Lozano**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."     
+    excerpt: "**Danny Lozano**: You have given me a love of song and dance, and given me confidence that I can do anything with enough work and sweat. You pushed me out of my comfort zone so many times that I lost count. Thank you."     
 feature_row4:
   - image_path: /assets/images/family.jpg
     alt: "Family"
