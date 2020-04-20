@@ -111,7 +111,7 @@ feature_row24:
 feature_row25:
   - image_path: /assets/images/PSHS_Eurydice.JPG
     alt: "Eurydice"
-    excerpt: "**Plano Senior High School**: Coming March 2020!<br><br>*The classic myth of Orpheus through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love. With contemporary characters, ingenious plot twists, and breathtaking visual effects, the play is a fresh look at a timeless love story.*<br><br>Featuring John Marshall as Father"  
+    excerpt: "**Plano Senior High School**: March 2020 (Performance Canceled due to Coronavirus)<br><br>*The classic myth of Orpheus through the eyes of its heroine. Dying too young on her wedding day, Eurydice must journey to the underworld, where she reunites with her father and struggles to remember her lost love. With contemporary characters, ingenious plot twists, and breathtaking visual effects, the play is a fresh look at a timeless love story.*<br><br>John Marshall as Father"  
     
 ---
 # Media Gallery 
