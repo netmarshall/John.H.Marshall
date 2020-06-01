@@ -47,7 +47,8 @@ Accomplished actor, student, and leader. Effective organizer who works comfortab
 
 ## Education & Experience
 
-**Plano Senior High School (PSHS)**: Senior at PSHS graduating in June 2020. 
+**Plano Senior High School (PSHS)**: 
+* Summa Cum Laude Graduate June 2020
 * National Merit Scholarship Program Letter of Commendation 
 * 98th Percentile on the Scholastic Apptitude Test (SAT): **1420** (710 verbal, and 710 Math)
 * GPA: **4.24 / 4.0 - Ranked #103 out of 1,339** (Top 7% of graduating class)
