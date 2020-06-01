@@ -48,7 +48,7 @@ Accomplished actor, student, and leader. Effective organizer who works comfortab
 ## Education & Experience
 
 **Plano Senior High School (PSHS)**: 
-* Graduated Summa Cum Laude (June 2020)
+* Graduated Magna Cum Laude (June 2020)
 * National Merit Scholarship Program Letter of Commendation 
 * 98th Percentile on the Scholastic Apptitude Test (SAT): **1420** (710 verbal, and 710 Math)
 * GPA: **4.24 / 4.0 - Ranked #103 out of 1,339** (Top 7% of graduating class)
@@ -76,6 +76,7 @@ Accomplished actor, student, and leader. Effective organizer who works comfortab
 
 
 ## Awards & Honors
+* Magna Cum Laude Graduate, Plano Senior High School (june 2020)
 * Accepted to the University of Texas Arlington (UTA) Honors College to pursue a Bachelor of Fine Arts (BFA)
 * Awarded four year UTA Presidential Honors Scholarship
 * UIL Disctrict Level Best Actor (2019 - These Shining Lives)
